@@ -2,16 +2,18 @@
 
 初めまして、連萌（れんほう）のGitHubホームページです。
 
-[![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=flat-square)](https://www.wantedly.com/id/kensoz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?style=flat-square)](https://jp.linkedin.com/in/kensoz)\
+#### ⚡ Getting Started
+
+[![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=for-the-badge)](https://www.wantedly.com/id/kensoz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?style=for-the-badge)](https://jp.linkedin.com/in/kensoz)
 [![Qiita](https://img.shields.io/badge/-Qiita-689F38.svg?style=flat-square)](https://qiita.com/kensoz)
 [![Segmentfault](https://img.shields.io/badge/-Segmentfault-388E3C.svg?style=flat-square)](https://segmentfault.com/u/kensoz/articles)
 [![Juejin](https://img.shields.io/badge/-掘金-1976D2.svg?style=flat-square)](https://juejin.cn/user/1029616691882653)\
-✉ [Email](mailto:kensozlian@gmail.com)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)・[开源项目介绍](https://github.com/kensoz/resume/tree/master/github-cn)
+✉ [Email](mailto:kensozlian@gmail.com)
 
-#### ⚡ Quick Start !
+#### ⭐ Usage
 
 + 👨‍💻　職務：Webフロントエンドエンジニア
 + 💪　強み：JavaScriptによるフルスタック開発
-+ 📄　履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)
++ 📄　履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
 + 🌱　オープンソース：[GitHubプロジェクト一覧](https://github.com/kensoz/resume/tree/master/github)
