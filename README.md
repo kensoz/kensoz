@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?style=flat-square)](https://jp.linkedin.com/in/kensoz)\
 [![Qiita](https://img.shields.io/badge/-Qiita-689F38.svg?style=flat-square)](https://qiita.com/kensoz)
 [![Segmentfault](https://img.shields.io/badge/-Segmentfault-388E3C.svg?style=flat-square)](https://segmentfault.com/u/kensoz/articles)
-[![Juejin](https://img.shields.io/badge/-Juejin-303F9F.svg?style=flat-square)](https://juejin.cn/user/1029616691882653)\
-cn：[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)・[开源项目介绍](https://github.com/kensoz/resume/tree/master/github-cn)
+[![Juejin](https://img.shields.io/badge/-Juejin-1976D2.svg?style=flat-square)](https://juejin.cn/user/1029616691882653)\
+[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)・[开源项目介绍](https://github.com/kensoz/resume/tree/master/github-cn)
 
 #### ⚡ Quick Start !
 
