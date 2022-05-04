@@ -3,6 +3,8 @@
 初めまして、連萌（れんほう）と申します。\
 東京都で働いているWebフロントエンドエンジニアです。
 
+[![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=for-the-badge)](https://www.wantedly.com/id/kensoz) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?logo=linkedin&style=for-the-badge)](https://jp.linkedin.com/in/kensoz)
+
 #### ⚡ Getting Started
 
 + 📄　経歴書：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
