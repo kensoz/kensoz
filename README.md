@@ -3,7 +3,7 @@
 初めまして、連萌（れんほう）と申します。\
 東京都で働いているWebフロントエンドエンジニアです。
 
-<a href="https://www.wantedly.com/id/kensoz"><img src="https://github.com/kensoz/kensoz/blob/main/img/wantedly-logo.svg" style="margin-top:40px;" width="100px"></a>
+<a href="https://www.wantedly.com/id/kensoz"><img src="https://github.com/kensoz/kensoz/blob/main/img/wantedly-logo.svg" width="100px"></a>   <a href="https://www.wantedly.com/id/kensoz"><img src="https://github.com/kensoz/kensoz/blob/main/img/LI-Logo.png" width="90px"></a>
 
 #### ⚡ Getting Started
 
