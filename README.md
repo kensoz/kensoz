@@ -3,7 +3,9 @@
 初めまして、連萌（れんほう）のGitHubホームページです。
 
 #### ⚡ Getting Started
+<!-- ![](https://github.com/kensoz/kensoz/blob/main/img/wantedly.svg){:height="10px" width="40px"} -->
 
++ 📄 履歴： <img src="https://github.com/kensoz/kensoz/blob/main/img/wantedly.svg" width="50px">
 + 📄 履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
 + 💼 仕事：[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz)  | ✉ [Email](mailto:kensozlian@gmail.com)を送る
 + 📡 発信：[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
