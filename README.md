@@ -1,14 +1,16 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Murecho&duration=3000&size=16&height=25&color=000000&lines=%F0%9F%91%8B+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%F0%9F%91%8B+%E6%9D%A5%E9%83%BD%E6%9D%A5%E4%BA%86;%F0%9F%91%8B+Hey+there)](https://git.io/typing-svg)
 
-初めまして、連萌（れんほう）のGitHubホームページです。
+初めまして、連萌（れんほう）と申します。\
+東京都で働いているWebフロントエンドエンジニアです。
+
+<a href="https://www.wantedly.com/id/kensoz"><img src="https://github.com/kensoz/kensoz/blob/main/img/wantedly-logo.svg" style="margin-top:40px;" width="100px"></a>
 
 #### ⚡ Getting Started
-<!-- ![](https://github.com/kensoz/kensoz/blob/main/img/wantedly.svg){:height="10px" width="40px"} -->
 
-+ 📄 履歴： <img src="https://github.com/kensoz/kensoz/blob/main/img/wantedly.svg" width="50px">
-+ 📄 履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
-+ 💼 仕事：[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz)  | ✉ [Email](mailto:kensozlian@gmail.com)を送る
-+ 📡 発信：[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
++ 📄　経歴書：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
++ 📡　発信：[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
++ 📫　連絡：[Email](mailto:kensozlian@gmail.com)を送る
++ 🌱　オープンソース：[GitHubプロジェクト一覧](https://github.com/kensoz/resume/tree/master/github)
 
 <!-- shieldsアイコン [![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=for-the-badge)](https://www.wantedly.com/id/kensoz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?style=for-the-badge)](https://jp.linkedin.com/in/kensoz)
@@ -21,4 +23,4 @@
 
 + 👨‍💻　職務：Webフロントエンドエンジニア
 + 💪　強み：JavaScriptによるフルスタック開発
-+ 🌱　オープンソース：[GitHubプロジェクト一覧](https://github.com/kensoz/resume/tree/master/github)
+
