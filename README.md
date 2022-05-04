@@ -4,16 +4,19 @@
 
 #### ⚡ Getting Started
 
-[![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=for-the-badge)](https://www.wantedly.com/id/kensoz)
++ 📄 履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
++ 💼 仕事：[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz)  | ✉ [Email](mailto:kensozlian@gmail.com)を送る
++ 📡 発信：[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
+
+<!-- shieldsアイコン [![Wantedly](https://img.shields.io/badge/-Wantedly-0097A7.svg?style=for-the-badge)](https://www.wantedly.com/id/kensoz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0288D1.svg?style=for-the-badge)](https://jp.linkedin.com/in/kensoz)
 [![Qiita](https://img.shields.io/badge/-Qiita-689F38.svg?style=flat-square)](https://qiita.com/kensoz)
 [![Segmentfault](https://img.shields.io/badge/-Segmentfault-388E3C.svg?style=flat-square)](https://segmentfault.com/u/kensoz/articles)
 [![Juejin](https://img.shields.io/badge/-掘金-1976D2.svg?style=flat-square)](https://juejin.cn/user/1029616691882653)\
-✉ [Email](mailto:kensozlian@gmail.com)
+✉ [Email](mailto:kensozlian@gmail.com) -->
 
 #### ⭐ Usage
 
 + 👨‍💻　職務：Webフロントエンドエンジニア
 + 💪　強み：JavaScriptによるフルスタック開発
-+ 📄　履歴：[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
 + 🌱　オープンソース：[GitHubプロジェクト一覧](https://github.com/kensoz/resume/tree/master/github)
