@@ -8,7 +8,7 @@
 + ⭐　[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz) | ✉[Email](mailto:kensozlian@gmail.com)
 + 💼　[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
 + 📡　[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
-+ 👨‍💻　[URL]()
++ 💡　[URL]()
 
 #### 🌱 Usage
 
