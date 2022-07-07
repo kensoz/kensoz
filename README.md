@@ -8,10 +8,16 @@
 + ⭐　[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz)・✉[Email](mailto:kensozlian@gmail.com)
 + 💼　[職務経歴書](https://github.com/kensoz/resume/blob/master/README.md)・[中文简历](https://github.com/kensoz/resume/tree/master/resume-cn)
 + 📡　[Qiita](https://qiita.com/kensoz)・[SegmentFault](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653)
-+ 💡　[URL]()
++ 💡　[個人サイト]()
 
 #### 🌱 Usage
 
-| Name | Demo            | Type            | Description                       |Main Stack                       |
-| :----: | :---------------: | :---------------: | -------------------------- |-------------------------- |
-| [Rrea](https://github.com/kensoz/Rrea-server)   | | Full-Stack | member location and information management web system |TypeScript、Vue.js、Koa.js|
+##### project類：
+
++ No.1 🌞 **Rrea**：a member location and information management web system \
+Demo:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
+
+##### demo類：
+
++ No.1 ✌ a Vue.js & Vuetify multi-pages demo  ・  [**Link**](https://github.com/kensoz/vue-multi-pages-vuetify)
++ No.2 🐳 a full-stack web app depoly Docker demo ・  **[Link](https://github.com/kensoz/depoly-demo)**
