@@ -17,7 +17,8 @@
 + No.1 🌞 **Rrea**：a member location and information management web system \
 Demo:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 
-##### demo類：
+##### demo類&その他：
 
-+ No.1 ✌ a Vue.js & Vuetify multi-pages demo  ・  [**Link**](https://github.com/kensoz/vue-multi-pages-vuetify)
-+ No.2 🐳 a full-stack web app depoly Docker demo ・  **[Link](https://github.com/kensoz/depoly-demo)**
++ No.1 ✌ a Vue.js & Vuetify multi-pages demo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
++ No.2 🐳 a full-stack web app depoly Docker demo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
++ No.3 💡 renhou's portfolio ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Demo](http://renhou.starfree.jp/)**
