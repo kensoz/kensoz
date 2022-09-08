@@ -14,12 +14,14 @@
 
 ##### project類：
 
-+ No.1 🌞 **Rrea**：member information management web system \
++ 🌞 **Rrea**：Member information management web system \
 Demo Site:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
++ 🍋 **FEC**：Web Front End Collection \
+🚧 Now In Development !  ・  [GitHub](https://github.com/kensoz/FEC)
 
 ##### demo類&その他：
 
-+ No.1 ✌ Vue.js & Vuetify multi-pages demo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
-+ No.2 🐳 full-stack web app depoly Docker demo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
-+ No.3 💡 renhou's portfolio ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Site](http://renhou.starfree.jp/)**
-+ No.4 📒 renhou's blog ・  **[Repository](https://github.com/kensoz/blog)** ・  **[Site](https://kensoz.github.io/blog/)**
++ ✌ Vue.js & Vuetify multi-pages demo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
++ 🐳 Full-stack web app depoly Docker demo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
++ 💡 renhou's portfolio ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Site](http://renhou.starfree.jp/)**
++ 📒 renhou's blog ・  **[Repository](https://github.com/kensoz/blog)** ・  **[Site](https://kensoz.github.io/blog/)**
