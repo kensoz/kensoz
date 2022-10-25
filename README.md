@@ -21,7 +21,7 @@ Demo Site:  🚧 開発中です  ・  **[GitHub](https://github.com/kensoz/FEC)
 
 ##### Demo類&その他：
 
-+ ✌ Vue.js & Vuetifyマルチページdemo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
-+ 🐳 フルスタックwebアプリのDockerデプロイdemo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
++ ✌ Vue.js & VuetifyマルチページDemo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
++ 🐳 フルスタックWebアプリのDockerデプロイDemo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
 + 💡 個人ポートフォリオ ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Site](http://renhou.starfree.jp/)**
 + 📒 個人ブログ ・  **[Repository](https://github.com/kensoz/blog)** ・  **[Site](https://kensoz.github.io/blog/)**
