@@ -12,14 +12,14 @@
 
 #### 🌱 Usage
 
-##### project類：
+##### Project類：
 
 + 🌞 **Rrea**：メンバー情報管理システム \
 Demo Site:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 + 🍋 **FEC**：フロントエンド技術コレクションサイト \
 Demo Site:  🚧 開発中です  ・  **[GitHub](https://github.com/kensoz/FEC)**
 
-##### demo類&その他：
+##### Demo類&その他：
 
 + ✌ Vue.js & Vuetifyマルチページdemo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
 + 🐳 フルスタックwebアプリのDockerデプロイdemo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
