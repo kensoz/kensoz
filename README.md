@@ -5,7 +5,7 @@
 
 #### ⚡ Getting Started
 
-+ ⭐　[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIN](https://jp.linkedin.com/in/kensoz)・[RESUME](https://www.resume.id/kensoz) | ✉ [Email](mailto:renhoujob@gmail.com)
++ ⭐　[Wantedly](https://www.wantedly.com/id/kensoz)・[LinkedIn](https://jp.linkedin.com/in/kensoz)・[RESUME](https://www.resume.id/kensoz) | ✉ [Email](mailto:renhoujob@gmail.com)
 + 💼　[職務経歴書](https://github.com/kensoz/resume)・[中文简历](https://github.com/kensoz/resume/tree/master/zh-CN)
 + 📒　[ブログ](https://kensoz.github.io/blog/) | 📡 [Qiita](https://qiita.com/kensoz)・[思否](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653/posts?sort=newest)
 + 💡　[個人サイト](http://renhou.starfree.jp/)
