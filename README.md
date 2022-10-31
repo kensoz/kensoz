@@ -8,7 +8,7 @@
 + 🍅　[Wantedly](https://www.wantedly.com/id/kensoz)・[Linkedin](https://jp.linkedin.com/in/kensoz)・[RESUME](https://www.resume.id/kensoz)
 + ✉　[renhoujob@gmail.com](mailto:renhoujob@gmail.com)
 + 📒　[ブログ](https://kensoz.github.io/blog/) | 📡 [Qiita](https://qiita.com/kensoz)・[思否](https://segmentfault.com/u/kensoz/articles)・[掘金](https://juejin.cn/user/1029616691882653/posts?sort=newest)
-+ 💡　[個人サイト](http://renhou.starfree.jp/)
++ 🏠　[個人サイト]([http://renhou.starfree.jp/](https://kensoz.github.io/portfolio/))
 
 #### 🌱 Usage
 
