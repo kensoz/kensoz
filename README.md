@@ -23,5 +23,5 @@
 
 + ✌ Vue.js & VuetifyマルチページDemo  ・  [**Repository**](https://github.com/kensoz/vue-multi-pages-vuetify)
 + 🐳 フルスタックWebアプリのDockerデプロイDemo ・  **[Repository](https://github.com/kensoz/depoly-demo)**
-+ 💡 個人サイト ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Site](http://renhou.starfree.jp/)**
++ 🏠 個人サイト ・  **[Repository](https://github.com/kensoz/portfolio)** ・  **[Site](https://kensoz.github.io/portfolio/)**
 + 📒 個人ブログ ・  **[Repository](https://github.com/kensoz/blog)** ・  **[Site](https://kensoz.github.io/blog/)**
