@@ -14,7 +14,7 @@ I am a **Web Front-End Developer** working in Tokyo
 
 ##### Project：
 
-+ 🍋 **FEC**：Front-End技術まとめサイト ・  **[Repository](https://github.com/kensoz/FEC)** ・  **[🚧Site]()**
++ 🍋 **FEC**：Front-End技術まとめサイト ・  **[Repository](https://github.com/kensoz/FEC)** ・  **[🚧 Site]()**
 + 🌞 **Rrea**：メンバー情報管理システム
   + Site:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  Repository:  **[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 
