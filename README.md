@@ -12,7 +12,7 @@ I am a **Web Front-End Developer** working in Tokyo.
 
 #### 🌱 Usage
 
-+ 🍋 **FEC**：Webフロントエンド技術まとめサイト  ・  **[🚧 Site]()** | **[Repository](https://github.com/kensoz/FEC)**
++ 🍋 **FEC**：Webフロントエンド技術まとめサイト　[Site](https://fec-tau.vercel.app/) ・ [Repository](https://github.com/kensoz/FEC)
 + 🌞 **Rrea**：フルスタックメンバー情報管理システム
-  + Demo：**[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  Repository：**[Server](https://github.com/kensoz/Rrea-server) | [Client](https://github.com/kensoz/Rrea-client) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
-+ 📒 **Blog**：[Repository](https://github.com/kensoz/blog) | [Site](https://kensoz.github.io/blog/) ・ 🏠 **Portfolio**：[Repository](https://github.com/kensoz/portfolio) | [Site](https://kensoz.github.io/portfolio/)
+  + Site：[Client](http://rrea-client.live) ・ [Admin](http://rrea-admin.live)　Repository：[Server](https://github.com/kensoz/Rrea-server) ・ [Client](https://github.com/kensoz/Rrea-client)  ・  [Admin](https://github.com/kensoz/Rrea-admin) ・ [Client-Collection](https://github.com/kensoz/Rrea-client-collection)
++ 📒 **Blog**：[Repository](https://github.com/kensoz/blog) ・ [Site](https://kensoz.github.io/blog/)　🏠 **Portfolio**：[Repository](https://github.com/kensoz/portfolio) ・ [Site](https://kensoz.github.io/portfolio/)
