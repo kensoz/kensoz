@@ -5,8 +5,8 @@ I am a **Web Front-End Developer** working in Tokyo.
 
 #### ⚡ Getting Started
 
-+ 🎯 [Wantedly](https://www.wantedly.com/id/kensoz) ・ [Linkedin](https://jp.linkedin.com/in/kensoz)
-+ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
+<!-- + 🎯 [Wantedly](https://www.wantedly.com/id/kensoz) ・ [Linkedin](https://jp.linkedin.com/in/kensoz) -->
++ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
 + 📡  [Qiita](https://qiita.com/kensoz) ・ [SegmentFault](https://segmentfault.com/u/kensoz/articles) ・ [Juejin](https://juejin.cn/user/1029616691882653/posts?sort=newest)
 + 📒 [Blog](https://kensoz.github.io/blog/) ・ 🏠 [Portfolio Site](https://kensoz.github.io/portfolio/)
 
