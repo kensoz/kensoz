@@ -5,13 +5,18 @@ I am a **Web Front-End Developer** working in Tokyo.
 
 #### ⚡ Getting Started
 
-+ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ 💼 [Resume](https://kensoz.github.io/resume) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
++ 🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
 + 📡  [Qiita](https://qiita.com/kensoz) ・ [SegmentFault](https://segmentfault.com/u/kensoz/articles) ・ [Juejin](https://juejin.cn/user/1029616691882653/posts?sort=newest)
 + 📒 [Blog](https://kensoz.github.io/blog/) ・ 🏠 [Portfolio Site](https://kensoz.github.io/portfolio/)
++ 🍋 Webフロントエンド技術まとめサイト**FEC**　[Site](https://fec-tau.vercel.app/) ・ [Repository](https://github.com/kensoz/FEC)
 
+<!-- 
 #### 🌱 Usage
 
 + 🍋 **FEC**：Webフロントエンド技術まとめサイト　[Site](https://fec-tau.vercel.app/) ・ [Repository](https://github.com/kensoz/FEC)
 + 🌞 **Rrea**：フルスタックメンバー情報管理システム
   + Site：[Client](http://rrea-client.live) ・ [Admin](http://rrea-admin.live)　Repository：[Server](https://github.com/kensoz/Rrea-server) ・ [Client](https://github.com/kensoz/Rrea-client)  ・  [Admin](https://github.com/kensoz/Rrea-admin) ・ [Client-Collection](https://github.com/kensoz/Rrea-client-collection)
 + 📒 **Blog**：[Repository](https://github.com/kensoz/blog) ・ [Site](https://kensoz.github.io/blog/)　🏠 **Portfolio**：[Repository](https://github.com/kensoz/portfolio) ・ [Site](https://kensoz.github.io/portfolio/)
+
+💼 [Resume](https://kensoz.github.io/resume) ・  
+-->
