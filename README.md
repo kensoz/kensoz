@@ -3,11 +3,10 @@
 Nice to meet you., My name is Renhou.\
 I am a **Web Front-End Developer** working in Tokyo.
 
-🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
-
 
 <!-- 
 
+🎯 [Linkedin](https://jp.linkedin.com/in/kensoz) ・ ✉ [renhoujob@gmail.com](mailto:renhoujob@gmail.com)
 
 #### ⚡ Getting Started
 
